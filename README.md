@@ -1,4 +1,4 @@
-🔭 EE Major<br>🌱 Diving into C++<br>💬 Ask me about C++<br>⚡ I might fail my major because of C++
+🔋 EE Major<br>:books: Diving into C++<br>💬 Ask me about C++<br>:relieved: I might fail my major because of C++
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/theintjengineer) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/theintjengineer) 
