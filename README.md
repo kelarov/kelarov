@@ -1,4 +1,4 @@
-🔋 EE Major<br>:books: Diving into C++ and Rust<br>💬 Learning AWS<br>:relieved: Homeschool Rocks
+🔋 EE Major<br>:books: Diving into C++ and Rust<br>💬 Learning Cybersecurity<br>:relieved: Homeschool Rocks
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/energy_hz_vibrations) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/theintjengineer)  
